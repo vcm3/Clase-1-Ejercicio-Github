@@ -69,3 +69,5 @@ GabarrIn, Florencia (2362560) -> Usuario de Github:
 
 Orcoyen, Sebastian (232701) -> Usuario de Github: sebaol
 
+Azor, Valentin (220971) -> Usuario de Github: valepalmares
+
