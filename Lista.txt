@@ -5,6 +5,9 @@ Anduano Novoa, Joaquin (176914) -> Usuario de Github: joaquin03
 
 -----------------------------------------------------------------
 ALUMNOS:
+
+Juan Manuel Rabuñal (232067) -> Usuario de Github: juanmarab
+
 Rosas Busto, Esteban (198313) -> Usuario de Github: erosasbusto
 
 Alarcon Guapura, Miguel (176944) -> Usuario de Github: cymi04
@@ -68,4 +71,3 @@ Mester, Ivana (204318) -> Usuario de Github:
 GabarrIn, Florencia (236256) -> Usuario de Github: fggabarrin
 
 Orcoyen, Sebastian (232701) -> Usuario de Github: sebaol
-
