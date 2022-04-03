@@ -73,3 +73,6 @@ Mester, Ivana (204318) -> Usuario de Github:
 GabarrIn, Florencia (236256) -> Usuario de Github: fggabarrin
 
 Orcoyen, Sebastian (232701) -> Usuario de Github: sebaol
+
+Azor, Valentin (220971) -> Usuario de Github: valepalmares
+
