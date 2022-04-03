@@ -5,6 +5,11 @@ Anduano Novoa, Joaquin (176914) -> Usuario de Github: joaquin03
 
 -----------------------------------------------------------------
 ALUMNOS:
+
+Patricia Varela (151547) -> Usuario de Github: pavarela
+
+Juan Manuel Rabuñal (232067) -> Usuario de Github: juanmarab
+
 Rosas Busto, Esteban (198313) -> Usuario de Github: erosasbusto
 
 Alarcon Guapura, Miguel (176944) -> Usuario de Github: cymi04
@@ -59,13 +64,13 @@ Casasco, Nicolas (236894) -> Usuario de Github:
 
 Azor, Valentin (220971) -> Usuario de Github:
 
-Sogliano, Nicolas  (236894) -> Usuario de Github: 
+Sogliano, Nicolas  (238475) -> Usuario de Github: sogliano
 
 Furtado, Maria  (205610) -> Usuario de Github: 
 
 Mester, Ivana (204318) -> Usuario de Github: 
 
-GabarrIn, Florencia (2362560) -> Usuario de Github: 
+GabarrIn, Florencia (236256) -> Usuario de Github: fggabarrin
 
 Orcoyen, Sebastian (232701) -> Usuario de Github: sebaol
 
