@@ -12,3 +12,4 @@ Alejandro Duran (176652) -> Usuario de Git: AlejandroDuranRoveta
 Juan Ignacio Zimet (219563) -> Usuario de Git: nachoZimet
 Diego Zipitria (232515) -> Usuario de Git: diegozipitria
 Macarena López (235976) -> Usuario de Git: McTinyMonster
+Theo Rodríguez (254823) -> Usuario de Git: TheoRodriguez75
