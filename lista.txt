@@ -1,6 +1,7 @@
 EJEMPLO:
 
 Ivana Mester (204318) -> Usuario de GitHub: ivanamester
+Mateo González (251555) -> Usuario de GitHub: Mateo-Gonzalez-ORT
 Tomás Núñez (257564) -> Usuario de GitHub: TomasNunezV
 Facundo Jaume (239695) -> Usuario de GitHub: FacundoJaume07
 Ronald Carbajal (237256) -> Usuario de GitHub: roncarbajal
