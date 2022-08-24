@@ -1,3 +1,5 @@
 EJEMPLO:
 
 Ivana Mester (204318) -> Usuario de GitHub: ivanamester
+
+Paulina Gomez (243819) -> paulinagopi
