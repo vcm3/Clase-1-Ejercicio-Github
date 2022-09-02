@@ -2,7 +2,12 @@ EJEMPLO:
 
 Joaquin Anduano (176914) -> Usuario de GitHub: joaquin03
 
+
 Gonzalo Fontenla (172532) -> Usuario de GitHub: gfontenla
+Elizabelar Nicolás (210056) -> Usuario de GitHub: nelizabelar
+Giuliano Palumbo (222581) -> Usuario de GitHub: giulianopbo
+Nicolás Pajor (238910) -> Usuario de GitHub: nfpajor
+Felipe Romero (219588) -> Usuario de Github: FelipeRomero9
 Maximiliano Chiale (224179) -> Usuario de GitHub: maxichiale
 Santiago Garreta (256809) -> Usuario de GitHub: SantiagoGarreta
 Renzo Fattorini (239770) -> Usuario de GitHub: renzofatto
@@ -11,4 +16,3 @@ Santiago Mc Clew (234021) -> Usuario de GitHub: santimcc
 Agustin Juarez  (236487) -> Usuario de GitHub: AgustinJuarezN
 Kevin  Villamil (187176) -> Usuario de GitHub: kios17
 Agustin Campon  (233006) -> Usuario de GitHub: acampon-sw
-
